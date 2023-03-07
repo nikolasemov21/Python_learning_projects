@@ -11,13 +11,11 @@ The program contains couple of functions in the functions.py file that are made 
 
 # Turtle key drawing
 App that uses the turtle module. User can use a keyboard keys to draw. 
-Keybinds:
+Keybinds:   
 w - moves the turtle forwards with pendown    
-
 s - moves the turtle backwards with pendown   
-
-a - turns the turtle left
-d - turns the turtle right
-Up arrow - moves the turtle forwards with penup
-Down arrow - moves the turtle backwards with penup
-c -clears the screen and return the turtle in starting position
+a - turns the turtle left   
+d - turns the turtle right     
+Up arrow - moves the turtle forwards with penup     
+Down arrow - moves the turtle backwards with penup     
+c -clears the screen and return the turtle in starting position      
